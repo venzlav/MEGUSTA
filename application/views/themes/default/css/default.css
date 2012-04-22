@@ -1,0 +1,198 @@
+body {
+	width: 100%;
+	margin: auto;
+	padding: 0px;
+	font-size: 11pt;
+	font-family:arial,sans-serif;
+}
+
+body, ul, li, a {
+	margin: 0px;
+	padding 0px;
+	text-decoration: none;
+	list-style: none;
+	color: black;
+}
+
+#block_search, #block_header_only_logo {
+	font-size: 150%;
+}
+
+#block_top_menu {
+	clear: both;
+	padding: 0px;
+	background-color: silver; 
+}
+
+#block_top_menu ul {
+	display: block;
+	text-decoration: none;
+	list-style: none;
+	background-color: black;
+	opacity: 0.6;
+	height: 20pt;
+	
+}
+
+#block_top_menu li {
+	float: left;
+	color: white!important;
+	padding: 3px 10px 3px 10px;
+}
+
+#block_top_menu a {
+	color: white;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+#block_search, #block_header_only_logo  {
+	padding: 20pt;
+	height: 20pt;
+	background-color: #f1f1f1;
+	border-bottom: 1px solid silver;
+}
+
+#block_search input, button {
+	border: 1px solid silver;
+	padding: 2px;
+	height: 20pt;
+	width: 400px;
+	background-color: white;
+	margin-left: 20pt;
+	font-size: 12pt;
+}
+
+#block_login {
+	width: 700pt;
+	margin: 40pt auto 40pt auto;
+}
+
+#block_login form {
+	float: left;
+	border: 1px solid silver;
+	background-color: #f1f1f1;
+	padding: 20pt;
+	width: 160pt;
+	margin: auto;
+}
+
+#block_login input {
+	border: 1px solid silver;
+	height: 20pt;
+	width: 200px;
+	background-color: white;
+	margin: 4pt;
+	font-size: 12pt;
+}
+
+#block_login h2 {
+	font-size: 12pt;
+	margin: 4pt;
+	font-weight: normal;
+}
+
+#block_login h3 {
+	font-size: 10pt;
+	margin: 4pt;
+	padding: 0pt;
+}
+
+#block_login button {
+	border: 1px solid #3079ED;
+	font-weight: bold;
+	width: 100px;
+	background: #4D90FE;
+	color: white !important;
+	border-radius: 2px;
+	float: right;
+	margin: 10pt 6pt 0pt 0pt; 
+}
+
+#block_login #info {
+	width: 400pt;
+	padding: 10pt;
+	float: left;
+}
+#block_search button {
+	border: 1px solid #3079ED;
+	font-weight: bold;
+	margin-left: 30px;
+	width: 100px;
+	background: #4D90FE;
+	color: white !important;
+	border-radius: 2px;
+}
+
+#block_header {
+	padding: 2pt 0pt 2pt 40pt;
+	height: 36pt;
+	background-color: white;
+	border-bottom: 1px silver solid;
+}
+
+#block_header h1 {
+	font-size: 16pt;
+	color: red;
+	font-weight: normal;
+	float: left;
+}
+
+#elapsed_time {
+	color: silver;
+	font-size: 10pt;
+	padding: 13pt 0pt 2pt 200pt;
+	height: 36pt;
+}
+
+#left_slide {
+	margin-top: 5px;
+	width: 120pt;
+	display: block;
+}
+#block_left_menu {
+	width: 120pt;
+	padding-top: 20pt;
+	padding-bottom: 20pt;
+	border-bottom: 1pt silver solid;
+	float: left;
+}
+
+#block_left_menu a {
+	background-color: white;
+	padding: 4pt 0pt 4pt 40pt;
+	width: 80pt;
+	float: left;
+	font-size: 10pt;
+}
+
+#block_left_menu a:hover {
+	background-color: #f1f1f1;
+	border-left: 3pt red solid;
+	padding: 4pt 0pt 4pt 37pt;
+}
+
+#block_user_info  {
+	float: left;
+	padding: 20pt 0pt 20pt 40pt;
+
+}
+
+#block_login h1 {
+	font-size: 16pt;
+	color: red;
+	font-weight: normal;
+}
+#block_user_info h2{
+	font-size: 90%;
+	font-weight: normal;
+	margin-bottom: 0px;
+}
+
+#block_user_info h3 {
+	font-weight: normal;
+	margin:0px;
+	padding:0px;
+	color: gray;
+	font-size: 70%;
+}

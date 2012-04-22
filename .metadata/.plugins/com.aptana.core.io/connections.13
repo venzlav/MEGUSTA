@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections>
+<connection id="608f01e7-1e4d-476f-935a-7b79fab3bebe" type="sftp">
+<name>localhost</name>
+<host>localhost</host>
+<path>/var/www</path>
+<login>michal</login>
+<compression>AUTO</compression>
+</connection>
+<connection id="764e6071-2cc5-43e0-a3a2-2262771d27fa" type="workspace">
+<name>wyszukiwarka</name>
+<path>/wyszukiwarka</path>
+</connection>
+</connections>

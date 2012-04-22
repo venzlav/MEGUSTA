@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sites>
+<site>
+<name>Localhost</name>
+<source>workspace:/wyszukiwarka</source>
+<destination>aptanavfs://608f01e7-1e4d-476f-935a-7b79fab3bebe/</destination>
+</site>
+</sites>
