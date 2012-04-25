@@ -1,5 +1,0 @@
-<?php
-$result = exec("/usr/bin/python /var/www/scaner.py");
-$file = '/var/www/files.txt';
-file_put_contents($file, $result);
-?>

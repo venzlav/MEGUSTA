@@ -1,4 +1,0 @@
-MEGUSTA
-=======
-
-Wyszukiwarka ftp
